@@ -1,6 +1,6 @@
 #' Manyoshu data
 #' @description
-#' Text data of the Manyoshu editted by Yoshimura Makoto and his contributors.
+#' Text data of the Manyoshu revised by Yoshimura Makoto and his contributors.
 #' @rdname manyou_data
 #' @name manyou_data
 #' @seealso manyou kajin jikou

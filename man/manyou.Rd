@@ -12,7 +12,7 @@ An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) w
 manyou
 }
 \description{
-Text data of the Manyoshu editted by Yoshimura Makoto and his contributors.
+Text data of the Manyoshu revised by Yoshimura Makoto and his contributors.
 }
 \seealso{
 Useful links:
