@@ -1,0 +1,22 @@
+Package: manyou
+Type: Package
+Title: Text Data of the Manyoshu
+Version: 0.1.0
+Authors@R: c(
+    person("Akiru", "Kato", email = "paithiov909@gmail.com", role = "cre"),
+    person("Makoto", "Yoshimura", email = "y_makoto@yamaguchi-u.ac.jp", role = "aut"))
+Maintainer: Kato Akiru <paithiov909@gmail.com>
+Description: Text data of the Manyoshu editted by Yoshimura Makoto and his contributors.
+License: GPL (>= 3)
+URL: https://github.com/paithiov909/manyou
+BugReports: https://github.com/paithiov909/manyou/issues
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+Suggests:
+    dplyr,
+    readr,
+    readxl,
+    roxygen2
