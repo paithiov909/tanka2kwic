@@ -4,3 +4,8 @@
 ^\.Rproj\.user$
 ^LICENSE\.md$
 ^data-raw$
+^dev$
+dev_history.R
+$run_dev.*
+^app\.R$
+^rsconnect$

@@ -18,3 +18,6 @@ NULL
 #' 'Kazin' list of Manyoshu data
 #' @family manyou_data
 "kajin"
+
+#' Pre-tokenized text from 'manyou'
+"wakati"

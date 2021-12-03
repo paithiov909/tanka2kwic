@@ -1,7 +1,7 @@
 Package: manyou
 Type: Package
 Title: Text Data of the Manyoshu
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Akiru", "Kato", email = "paithiov909@gmail.com", role = "cre"),
     person("Makoto", "Yoshimura", email = "y_makoto@yamaguchi-u.ac.jp", role = "aut"))
@@ -16,7 +16,15 @@ RoxygenNote: 7.1.2
 Depends: 
     R (>= 2.10)
 Suggests:
-    dplyr,
     readr,
     readxl,
     roxygen2
+Imports:
+    pkgload,
+    config,
+    golem,
+    shiny,
+    quanteda,
+    dplyr,
+    reactable,
+    markdown
