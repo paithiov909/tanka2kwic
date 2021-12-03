@@ -70,7 +70,7 @@ golem_add_external_resources <- function() {
     metathis::meta_social(
       metathis::meta(),
       title = "Manyou | Text Data of the Manyoshu",
-      url = "https://github.com/paithiov909/manyou",
+      url = "https://github.com/paithiov909/manyou/",
       description = "Text data of the Manyoshu revised by Yoshimura Makoto and his contributors.",
       twitter_card_type = "summary",
       og_type = "website",

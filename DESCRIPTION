@@ -27,4 +27,5 @@ Imports:
     quanteda,
     dplyr,
     reactable,
-    markdown
+    markdown,
+    metathis
