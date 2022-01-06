@@ -1,11 +1,11 @@
 Package: manyou
 Type: Package
 Title: Text Data of the Manyoshu
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person("Akiru", "Kato", email = "paithiov909@gmail.com", role = "cre"),
     person("Makoto", "Yoshimura", email = "y_makoto@yamaguchi-u.ac.jp", role = "aut"))
-Maintainer: Kato Akiru <paithiov909@gmail.com>
+Maintainer: Akiru Kato <paithiov909@gmail.com>
 Description: Text data of the Manyoshu revised by Yoshimura Makoto and his contributors.
 License: GPL (>= 3)
 URL: https://github.com/paithiov909/manyou

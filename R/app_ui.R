@@ -39,7 +39,8 @@ app_ui_control <- function(id) {
       placeholder = ""
     ),
     shiny::hr(),
-    shiny::includeMarkdown(app_sys("README.md"))
+    shiny::includeMarkdown(app_sys("README.md")),
+    shiny::includeHTML(app_sys("app/include.html"))
   )
 }
 
@@ -75,7 +76,7 @@ golem_add_external_resources <- function() {
       twitter_card_type = "summary",
       og_type = "website",
       og_locale = "ja_JP"
-    )
-    # , shiny::includeHTML(app_sys("app/scripts.html"))
+    ),
+    shiny::includeHTML(app_sys("app/scripts.html"))
   )
 }
