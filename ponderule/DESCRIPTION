@@ -1,0 +1,30 @@
+Package: ponderule
+Type: Package
+Title: Full Text Search of 'Kindai-tanka'
+Version: 0.1.1
+Authors@R: c(
+    person("Akiru", "Kato", email = "paithiov909@gmail.com", role = "cre"),
+    person("Yuna", "Murata", role = "aut", comment = "Maintainer of the corpus"))
+Maintainer: Akiru Kato <paithiov909@gmail.com>
+Description: Full text search functionality for a 'Kindai-tanka' corpus.
+License: GPL (>= 3)
+URL: https://github.com/paithiov909/ponderule
+BugReports: https://github.com/paithiov909/ponderule/issues
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+Suggests:
+    jsonlite,
+    roxygen2
+Imports:
+    pkgload,
+    config,
+    golem,
+    shiny,
+    quanteda,
+    dplyr,
+    reactable,
+    markdown,
+    metathis
