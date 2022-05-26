@@ -7,7 +7,7 @@
 
 ## このRパッケージについて
 
-[manyou](https://github.com/paithiov909/manyou)は、万葉集をKWIC検索するためのShinyアプリです。
+[manyou](https://github.com/paithiov909/tanka2kwic/manyou)は、万葉集をKWIC検索するためのShinyアプリです。
 
 使用しているデータとしては、吉村誠氏が[サイト](https://c-able.ne.jp/~y_mura/)で頒布している「万葉集テキストデータ（UTF-8）」をそのまま利用しています。
 
@@ -15,7 +15,7 @@ KWIC検索するテキストとしては、上記のデータの「訓読」に�
 
 ## 「万葉集テキストデータ（UTF-8）」について
 
-[data-raw/manyou_data2019](https://github.com/paithiov909/manyou/tree/main/data-raw/manyou_data2019)にそのまま展開しています。データの内容については、[説明.txt](https://github.com/paithiov909/manyou/blob/main/data-raw/manyou_data2019/説明.txt)を参照してください。
+[data-raw/manyou_data2019](https://github.com/paithiov909/tanka2kwic/tree/main/manyou/data-raw/manyou_data2019)にそのまま展開しています。データの内容については、[説明.txt](https://github.com/paithiov909/tanka2kwic/blob/main/manyou/data-raw/manyou_data2019/説明.txt)を参照してください。
 
 ## Licence
 

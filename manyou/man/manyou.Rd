@@ -17,8 +17,8 @@ Text data of the Manyoshu revised by Yoshimura Makoto and his contributors.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/paithiov909/manyou}
-  \item Report bugs at \url{https://github.com/paithiov909/manyou/issues}
+  \item \url{https://github.com/paithiov909/tanka2kwic}
+  \item Report bugs at \url{https://github.com/paithiov909/tanka2kwic/issues}
 }
 
 

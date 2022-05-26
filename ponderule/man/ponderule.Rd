@@ -11,8 +11,8 @@ Full text search functionality for a 'Kindai-tanka' corpus.
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/paithiov909/ponderule}
-  \item Report bugs at \url{https://github.com/paithiov909/ponderule/issues}
+  \item \url{https://github.com/paithiov909/tanak2kwic}
+  \item Report bugs at \url{https://github.com/paithiov909/tanka2kwic}
 }
 
 }
